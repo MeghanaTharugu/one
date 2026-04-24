@@ -592,7 +592,7 @@
         <!-- Products -->
         <section class="section container" aria-labelledby="prod-title">
             <div class="title" id="prod-title">
-                <h2>Non Trending Products are presented below</h2>
+                <h2>The most Trending Products are presented below</h2>
                 <p class="muted">Popular picks based on recent activity.</p>
             </div>
 
